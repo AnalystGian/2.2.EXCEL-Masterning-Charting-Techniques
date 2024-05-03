@@ -7,7 +7,7 @@ This equips users to create effective charts for informed decision-making.
 2. Select charts suitable for purpose
 3. Develop a range of charting techniques to tell good data stories
 
-## The Excel file includes 3 sheets:
+## The Excel file includes 4 sheets:
 1. Dashboard
 2. Covid-19 Daily Cases
 3. Covid-19 Deaths
