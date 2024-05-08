@@ -3,22 +3,20 @@ This project is for people who want to leverage Excel for proficient visualizati
 This equips users to create effective charts for informed decision-making.
 
 ## Below are the key objectives of this project:
-1. Perform data analysis using sorting and filtering tools.
-2. Perform data mining using the IF function.
-3. Create references between tables and search for information with VLOOKUP.
-4.Perform data analysis using PivotTables.
+1. Create line, column, area, pie, donut charts and scatter plots
+2. Select charts suitable for purpose
+3. Develop a range of charting techniques to tell good data stories
 
-## The Excel file includes 5 sheets:
-1. Project Objectives
-2. Sales Data
-3. Customer Info
-4. Pivot Table
-5. Dashboard
+## The Excel file includes 4 sheets:
+1. Dashboard
+2. Covid-19 Daily Cases
+3. Covid-19 Deaths
+4. Covid-19 Cases by Country
 
-## Below are the steps done in this project:
-Task 1. Convert range to a table
-Task 2. QA & Data Profiling - Sorting and Filtering
-Task 3. Data Mining
-Task 4. Data Transformation
-Task 5. Data Analysis with PivotTables
-Task 6. Create Dashboard
+## Below are the charts used in this project:
+1. Dount Charts
+2. Map Charts
+3. Combo Charts
+4. Line Charts
+5. Column/Bar Charts
+6. Stacked Area Charts
